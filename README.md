@@ -1,2 +1,4 @@
-# RisingCamp1week
- 1week homework
+# RisingCamp1week 
+### 라이징캠프 첫주차 과제 </br>
+* 서비스중인 어플리케이션 화면을 xml파일만을 이용하여 똑같이 구현하기 </br>
+* 시연영상
