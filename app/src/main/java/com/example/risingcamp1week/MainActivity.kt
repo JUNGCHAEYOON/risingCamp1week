@@ -18,11 +18,11 @@ class MainActivity : AppCompatActivity() {
 
         //text
         val baemin1BtnText = Html.fromHtml("<b>배민1</b>" + "<br/>" +
-                "<small><small><small>한 번에 한 집만</small></small></small>" + "<br/>" +
-                "<small><small><small>빠르게 배달해요!</small></small></small>")
+                "<small><small><small><small>한 번에 한 집만</small></small></small></small>" + "<br/>" +
+                "<small><small><small><small>빠르게 배달해요!</small></small></small></small>")
         val baedalBtnText = Html.fromHtml("<b>배달</b>" + "<br/>" +
-                "<small><small><small>세상은 넓고</small></small></small>" + "<br/>" +
-                "<small><small><small>맛집은 많다</small></small></small>")
+                "<small><small><small><small>세상은 넓고</small></small></small></small>" + "<br/>" +
+                "<small><small><small><small>맛집은 많다</small></small></small></small>")
         val pojangBtnText = Html.fromHtml("<b>포장</b>" + "<br/>" +
             "<small><small><small><small>가까운 가게는 직접 가지러 가지요</small></small></small></small>" + "<br/>")
         val baeminStoreBtnText = Html.fromHtml("<b>배민스토어</b>" + "<br/>" +
